@@ -26,7 +26,7 @@ Os passos seguintes vão guiá-lo em como configurar e rodar o projeto:
 8. Agora, a aplicação deve estar rodando e disponível na porta 9000 do seu host.
 
 
-# Endpoinst:
+# Endpoints:
 ## cadastro:
 
 http://localhost:9000/product
