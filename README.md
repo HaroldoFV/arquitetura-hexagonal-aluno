@@ -19,7 +19,7 @@ Os passos seguintes vão guiá-lo em como configurar e rodar o projeto:
 1. Primeiro, você precisa clonar o repositório. Digite o seguinte comando no terminal:
 2. git clone https://github.com/HaroldoFV/arquitetura-hexagonal-aluno.git
 3. Navegue até a pasta recém-clonada com o comando:
-4. cd hexagonal-aluno
+4. cd arquitetura-hexagonal-aluno
 5. docker-compose up -d
 6. docker exec -it appproduct bash
 7.  go run main.go http
